@@ -7,6 +7,6 @@ import org.springframework.web.servlet.config.annotation.EnableWebMvc;
 @Configuration
 @EnableWebMvc
 @ComponentScan(basePackages="ua.pp.darknsoft")
-public class RootConfig {
+public class DataServiceConfig {
 
 }
