@@ -5,4 +5,4 @@
 - Spring Security
 - JSON web token
 - Maven
-- Thymelife
+- thymeleaf
